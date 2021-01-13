@@ -1,0 +1,41 @@
+
+h1{
+  margin:5%;
+  font-size: 5rem;
+  font-family: 'Lobster', cursive;
+  text-shadow: 8px 0 grey;
+  color:black;
+
+}
+
+p{
+  font-size: 1.5rem;
+    font-family: 'Indie Flower', cursive;
+}
+
+body{
+  background-color: pink;
+
+}
+footer{
+  margin-top:10%;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  color:#fff;
+}
+.img{
+  width:90%;
+}
+
+.container{
+  width:70%;
+  margin: auto ;
+  text-align:center;
+}
+
+.dice{
+text-align: center;
+display: inline-block;
+margin-right: 10%;
+margin-left: 10%;
+}
